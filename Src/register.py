@@ -1,2 +1,2 @@
 def register():
-    print("register module")
+    print("register modules.")
